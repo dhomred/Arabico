@@ -1,1 +1,13 @@
-go fuck ur self
+provider.name=Braflix 
+provider.version=1.0 
+provider.language=ar 
+provider.status=1 
+provider.description=Arabic streaming content 
+provider.authors=Arabico 
+provider.tvTypes=Movies,TVSeries 
+provider.url=https://raw.githubusercontent.com/Arabico/Arabico/main/build/Braflix.cs3 
+provider.internalName=Braflix 
+provider.iconUrl=https://raw.githubusercontent.com/Arabico/Arabico/main/icons/braflix.png 
+provider.apiVersion=1 
+provider.repositoryUrl=https://github.com/Arabico/Arabico 
+provider.fileSize=1024 

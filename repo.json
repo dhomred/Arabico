@@ -1,12 +1,19 @@
 {
-    "name": "Arabico - Arabic Providers Repository",
-    "description": "A comprehensive collection of Arabic content providers for Cloudstream. Includes movies, TV series, anime, and live TV from various Arabic sources.",
+    "name": "Arabico",
+    "description": "مستودع الملحقات العربية لـ CloudStream - مجموعة شاملة من مزودي المحتوى العربي",
     "manifestVersion": 1,
-    "pluginLists": [
-      "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
-    ],
-    "author": "Arabico Team",
+    "pluginFile": "plugins.json",
+    "catalogVersion": 1,
+    "catalogUrl": "https://github.com/aymanbest/Arabico/raw/main/plugins.json",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=arabico.com&sz=%size%",
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "syncEnabled": true,
+    "betaSyncEnabled": false,
+    "categories": ["arabic", "entertainment", "movies", "series", "live-tv"],
     "language": "ar",
-    "category": "Entertainment",
-    "tags": ["arabic", "movies", "tv-series", "anime", "live-tv"]
-  }
+    "authors": ["Arabico Team", "kingslayer_007"],
+    "status": "active",
+    "lastUpdated": "2024-01-01T00:00:00Z",
+    "supportedVersions": ["4.0.0", "4.1.0", "4.2.0"],
+    "minimumVersion": "4.0.0"
+}

@@ -1,4 +1,78 @@
 [{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tvlive.app&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 15000,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "Arabico"
+    ],
+    "tvTypes": [
+        "Live"
+    ],
+    "version": 1,
+    "internalName": "TvLiveProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/TvLive.cs3",
+    "name": "TvLive"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.live&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 15000,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "Arabico"
+    ],
+    "tvTypes": [
+        "Live"
+    ],
+    "version": 1,
+    "internalName": "IskProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
+    "name": "3isk"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=braflix.ru&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 15000,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "Arabico"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "BraflixProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/Braflix.cs3",
+    "name": "Braflix"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=365show.online&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 15000,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "Arabico"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "Show365Provider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/365_SHOW.cs3",
+    "name": "365_SHOW"
+},
+{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",

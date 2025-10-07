@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompile
 plugins {
     id("java-library")
     id("org.jetbrains.kotlin.jvm")
-    id("com.github.johnrengelman.shadow") version "7.1.2"
+    id("com.github.johnrengelman.shadow")
 }
 
 dependencies {
@@ -25,7 +25,7 @@ java {
 }
 
 tasks.shadowJar {
-    archiveFileName.set("SagaProvider.cs3")
+    archiveFileName.set("Cima4uProvider.cs3")
     destinationDirectory.set(file("$rootDir/build"))
 }
 

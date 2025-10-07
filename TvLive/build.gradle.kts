@@ -25,7 +25,7 @@ java {
 }
 
 tasks.shadowJar {
-    archiveFileName.set("SagaProvider.cs3")
+    archiveFileName.set("TvLive.cs3")
     destinationDirectory.set(file("$rootDir/build"))
 }
 

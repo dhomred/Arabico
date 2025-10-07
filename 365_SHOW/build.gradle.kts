@@ -25,7 +25,7 @@ java {
 }
 
 tasks.shadowJar {
-    archiveFileName.set("SagaProvider.cs3")
+    archiveFileName.set("365_SHOW.cs3")
     destinationDirectory.set(file("$rootDir/build"))
 }
 

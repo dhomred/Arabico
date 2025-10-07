@@ -73,7 +73,7 @@
 ### للمطورين
 1. استنسخ المستودع:
 ```bash
-git clone https://github.com/aymanbest/Arabico.git
+git clone https://github.com/dhomred/Arabico.git
 ```
 
 2. قم ببناء المشروع:
@@ -118,8 +118,8 @@ Arabico/
 
 ## 📞 التواصل
 
-- **المستودع الرئيسي**: [https://github.com/aymanbest/Arabico](https://github.com/aymanbest/Arabico)
-- **مشكلات GitHub**: [Issues](https://github.com/aymanbest/Arabico/issues)
+- **المستودع الرئيسي**: [https://github.com/dhomred/Arabico](https://github.com/dhomred/Arabico)
+- **مشكلات GitHub**: [Issues](https://github.com/dhomred/Arabico/issues)
 
 ## 📄 الترخيص
 

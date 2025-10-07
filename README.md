@@ -161,7 +161,7 @@ Arabico/
 ### Building from Source
 ```bash
 # Clone the repository
-git clone https://github.com/aymanbest/Arabico.git
+git clone https://github.com/dhomred/Arabico.git
 
 # Build all providers
 ./gradlew buildAll
@@ -216,7 +216,7 @@ This repository is for educational and personal use only. We do not host any con
 
 - 💬 **Discord**: Join our [Discord Server](https://discord.gg/arabico)
 - 📧 **Email**: support@arabico.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/aymanbest/Arabico/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/dhomred/Arabico/issues)
 
 ---
 

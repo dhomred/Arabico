@@ -56,7 +56,7 @@ git clone https://github.com/YOUR_USERNAME/Arabico.git
 cd Arabico
 
 # Add upstream remote
-git remote add upstream https://github.com/aymanbest/Arabico.git
+git remote add upstream https://github.com/dhomred/Arabico.git
 ```
 
 ### 2. Environment Setup
@@ -474,7 +474,7 @@ class MyProvider : MainAPI() {
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=myprovider.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "repositoryUrl": "https://github.com/dhomred/Arabico",
     "fileSize": 15000,
     "status": 1,
     "language": "ar",
@@ -482,7 +482,7 @@ class MyProvider : MainAPI() {
     "tvTypes": ["Movie", "TvSeries"],
     "version": 1,
     "internalName": "MyProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyProvider.cs3",
+    "url": "https://github.com/dhomred/Arabico/raw/main/build/MyProvider.cs3",
     "name": "MyProvider"
 }
 ```
@@ -549,8 +549,8 @@ Contributors will be:
 ## 📞 Getting Help
 
 - **Discord**: Join our [Discord Server](https://discord.gg/arabico)
-- **Issues**: [GitHub Issues](https://github.com/aymanbest/Arabico/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/aymanbest/Arabico/discussions)
+- **Issues**: [GitHub Issues](https://github.com/dhomred/Arabico/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/dhomred/Arabico/discussions)
 
 ## 🏆 Best Practices
 

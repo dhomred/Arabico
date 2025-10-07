@@ -76,17 +76,42 @@ Arabico provides high-quality Arabic content providers that integrate seamlessly
 
 ## 📥 Installation
 
-### Method 1: Direct Repository URL
-1. Open CloudStream
-2. Go to Settings → Extensions → Repository
-3. Add this URL: `https://github.com/aymanbest/Arabico`
-4. The repository will be added automatically
+### ✅ الطريقة الأسهل: إضافة مباشرة من GitHub
 
-### Method 2: Manual Installation
-1. Download the desired `.cs3` plugin files from the [build](build/) directory
-2. Open CloudStream
-3. Go to Settings → Extensions → Install from Storage
-4. Select the downloaded `.cs3` files
+1. **افتح تطبيق CloudStream**
+2. **اذهب إلى الإعدادات** ⚙️ Settings
+3. **ابحث عن "Extensions" أو "الملحقات"**
+4. **اختر "Repository" أو "المستودعات"**
+5. **اضغط على زر الإضافة** ➕ Add Repository
+6. **أدخل هذا الرابط**:
+   ```
+   https://github.com/dhomred/Arabico
+   ```
+7. **اضغط "إضافة" أو "Add"**
+8. **انتظر تحميل الملحقات** (بضع ثواني)
+
+### 📱 الطريقة اليدوية (للمتقدمين)
+
+1. **حمّل ملفات `.cs3` من مجلد [build](build/)**
+2. **في CloudStream، اذهب إلى Settings → Extensions → Install from Storage**
+3. **اختر الملفات التي حملتها**
+
+### 🎯 للمبتدئين: استخدم أداة الإعداد
+
+**شغّل ملف الإعداد**:
+```
+setup-cloudstream.bat
+```
+
+**سيقوم بإرشادك خطوة بخطوة**
+
+### 📋 التحقق من النجاح
+
+✅ **إذا رأيت رسالة "تمت الإضافة بنجاح"**
+✅ **إذا ظهر عدد الملحقات المتاحة (30+ ملحق)**
+✅ **إذا ظهرت أيقونة المستودع في القائمة**
+
+**🎉 مبروك! أصبح لديك الآن أكبر مكتبة محتوى عربي!**
 
 ## 🚀 Usage
 

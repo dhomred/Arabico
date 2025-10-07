@@ -1,0 +1,12 @@
+{
+    "name": "Arabico - Arabic Providers Repository",
+    "description": "A comprehensive collection of Arabic content providers for Cloudstream. Includes movies, TV series, anime, and live TV from various Arabic sources.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
+    ],
+    "author": "Arabico Team",
+    "language": "ar",
+    "category": "Entertainment",
+    "tags": ["arabic", "movies", "tv-series", "anime", "live-tv"]
+  }

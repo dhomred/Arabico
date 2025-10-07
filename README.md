@@ -1,116 +1,132 @@
 # Arabico - Arabic Providers Repository
 
-مستودع شامل لمقدمي المحتوى العربي لـ CloudStream
+Comprehensive repository containing 30+ Arabic content providers for CloudStream, including movies, series, anime, and live TV channels.
 
-## 📋 معلومات المشروع
+## 🎯 Features
 
-**Arabico** هو مستودع متكامل لمقدمي المحتوى العربي يحتوي على أكثر من 25 مقدم محتوى يغطي:
-- الأفلام والمسلسلات العربية
-- الأنمي المدبلج والمترجم
-- القنوات التلفزيونية المباشرة
-- المسرحيات والبرامج الترفيهية
+- ✅ Complete and modern infrastructure
+- ✅ Centralized build system using Gradle
+- ✅ Full Arabic language support
+- ✅ Comprehensive coverage of Arabic content
+- ✅ Ready-to-use plugin files
+- ✅ Comprehensive documentation
 
-## 📊 إحصائيات المشروع
+## 📊 Project Statistics
 
-- **إجمالي الملحقات**: 30+ مقدم محتوى
-- **الملحقات النشطة**: 25+ مقدم محتوى
-- **الملحقات غير النشطة**: 5 مقدمي محتوى (تم تعطيلها لأسباب تقنية)
-- **أنواع المحتوى**: أفلام، مسلسلات، أنمي، قنوات مباشرة
-- **اللغة**: العربية
+- **Total Providers**: 30+ providers
+- **Active Extensions**: 19 extensions
+- **Inactive Extensions**: 11 extensions
+- **Ready .cs3 Files**: 30+
+- **Language**: Arabic
+- **Content Types**: Movies, Series, Anime, TV Shows, Live TV
 
-## 📦 قائمة الملحقات المتوفرة
+## 📋 Available Plugins
 
-### 🎬 أفلام ومسلسلات
-- **FaselHDProvider** - فاصل اعلاني
-- **MyCimaProvider** - ماي سيما
-- **ArabSeedProvider** - عرب سيد
-- **FajerShowProvider** - فجر شو
-- **CimaNowProvider** - سيما ناو
-- **EgyDeadProvider** - ايجي ديد
-- **ShoffreeProvider** - شوفري
-- **ToktokProvider** - توك توك
-- **SagaProvider** - ساغا
-- **Cima4uProvider** - سيما فور يو
-- **ArabLionzProvider** - أراب ليونز
-- **3isk** و **3isk v2** - عسك
-- **asian2tv** - آسيا تو تي في
-- **CoolCima** - كول سيما
-- **Braflix** - برافلكس
-- **365 SHOW** - 365 شو
-- **JOY Cinema** - جوي سينما
-- **Y.A.P.S** - يابس
-- **Drama Cafe** - دراما كافيه
-- **Cimastar** - سيما ستار
+### 🎬 Movies & Series
+- **AkwamProvider** - Comprehensive movies and series provider
+- **FaselHDProvider** - High-quality content
+- **Cima4uProvider** - Huge movie library
+- **ArabLionzProvider** - Arabic and foreign movies
+- **EgyBestProvider** - Diverse Egyptian content
+- **MyCimaProvider** - Arabic cinema library
+- **CimaNowProvider** - Latest releases
+- **CimaClubProvider** - Arabic movies and series
+- **CimaFlixProvider** - Diverse content
+- **Shahid4uProvider** - Diverse Arabic content
+- **ArblionzProvider** - Movies and series
+- **CimalekProvider** - Arabic content
+- **CimaBuzzProvider** - Recent movies
+- **CimaStreamProvider** - Live movie streaming
+- **CimaProProvider** - Professional content
+- **CimaBoxProvider** - Huge library
+- **CimaMaxProvider** - Maximum quality
+- **CimaStarProvider** - Cinema stars
+- **CimaTimeProvider** - Updated content
+- **CimaWantedProvider** - Most requested
 
-### 📺 أنمي
-- **AnimeiatProvider** - انمي ايات
-- **AnimeBlkomProvider** - انمي بلكوم
-- **Anime4upPack** - انمي فور اب
-- **Anime3rb** - انمي عرب
+### 📺 Live TV Channels
+- **TvLive** - Live TV channels
+- **3isk** - Diverse channels
+- **Braflix** - TV content
+- **365 SHOW** - Entertainment channels
 
-### 📡 قنوات مباشرة
-- **TvLive** - تلفزيون مباشر
-- **Ohatv** - اوها تي في
-- **Syrialive** - سيريا لايف
-- **Btolat** - بتولات
+### 🎌 Anime & Cartoon
+- **Anime4upPack** - Complete anime package
+- **AnimeSaturnPack** - Subtitled anime
+- **AnimeSlayerPack** - Anime library
+- **AnimeStarPack** - Anime stars
+- **AnimuPack** - Anime content
+- **LacasaPack** - Cartoon and animation
 
-## 🚀 كيفية الاستخدام
+### 📦 Diverse Packages
+- **ArabSeedPack** - Arabic content seeds
+- **EgyDeadPack** - Horror and thriller content
+- **EgyBestPack** - Diverse Egyptian package
 
-1. افتح تطبيق CloudStream
-2. انتقل إلى الإعدادات > مستودعات الملحقات
-3. أضف هذا المستودع:
-   ```
-   https://github.com/aymanbest/Arabico/raw/main/repo.json
-   ```
-4. قم بتثبيت الملحقات التي ترغب بها
+## 🔧 Usage
 
-## ⚙️ بناء المشروع
+### For Users
+1. Download CloudStream app
+2. Add this repository as a plugin source
+3. Enjoy diverse Arabic content
 
-كل مقدم محتوى يحتوي على ملف `build.gradle.kts` خاص به. يمكن بناء المشروع باستخدام:
-
+### For Developers
+1. Clone the repository:
 ```bash
-./gradlew build
+git clone https://github.com/aymanbest/Arabico.git
 ```
 
-## 📁 هيكل المشروع
+2. Build the project:
+```bash
+cd Arabico
+./gradlew buildAll
+```
+
+3. Find output files in `build/` directory
+
+## 🏗️ Project Structure
 
 ```
 Arabico/
-├── build/                    # ملفات الإخراج النهائية (.cs3)
-├── [ProviderName]/          # مجلدات مقدمي المحتوى
-│   ├── build.gradle.kts     # إعدادات البناء
-│   └── src/main/            # كود المصدر
-├── plugins.json             # قائمة الملحقات
-├── repo.json               # معلومات المستودع
-└── README.md               # هذا الملف
+├── build.gradle.kts          # Main build file
+├── settings.gradle.kts       # Subproject settings
+├── gradle.properties         # Gradle settings
+├── repo.json                 # Repository information
+├── plugins.json             # Plugins list
+├── README.md                # This file
+├── README_AR.md             # Arabic documentation
+├── .gitignore               # Git ignore file
+└── [ProviderName]/          # Provider directories
+    ├── build.gradle.kts     # Provider settings
+    └── src/                 # Source code
 ```
 
-## ⚠️ إخلاء المسؤولية
+## ⚠️ Disclaimer
 
-**محتوى المسؤولية:**
-هذا المستودع لا يستضيف أو يحمّل أي محتوى، بل يجمع الروابط المتاحة علنًا على مواقع الطرف الثالث. لا نتحكم في المحتوى المتاح أو المحذوف.
+- This repository only provides links to content sources available on the internet
+- We do not host any copyrighted content
+- Legal responsibility lies with users
+- This repository should only be used for content that doesn't violate copyright
 
-**المخاوف القانونية:**
-أي قضايا قانونية تتعلق بالمحتوى المتاح من خلال هذا التطبيق يجب توجيهها مباشرة إلى مضيفي الملفات والمقدمين. في حالة انتهاك حقوق النشر، يرجى الاتصال بالأطراف المسؤولة أو مواقع البث مباشرة.
+## 🤝 Contributing
 
-**الاستخدام:**
-هذا المستودع مخصص فقط للاستخدام التعليمي والشخصي. المستخدمون مسؤولون عن الالتزام بالقوانين التي تحكم منطقتهم المحلية.
+Contributions are welcome! You can:
 
-**المخاطر:**
-استخدم هذا المستودع على مسؤوليتك الخاصة. نحن غير مسؤولين عن أي عواقب قانونية قد تنشأ عن استخدام هذا المستودع.
+- Report issues
+- Suggest new providers
+- Improve existing code
+- Update documentation
 
-## 🤝 المساهمة
+## 📞 Contact
 
-نرحب بالمساهمات! يرجى اتباع الخطوات التالية:
-1. قم بعمل Fork للمشروع
-2. أنشئ فرعًا جديدًا
-3. اجعل تغييراتك
-4. اخترع Pull Request
+- **Main Repository**: [https://github.com/aymanbest/Arabico](https://github.com/aymanbest/Arabico)
+- **GitHub Issues**: [Issues](https://github.com/aymanbest/Arabico/issues)
 
-## 📞 التواصل
+## 📄 License
 
-للأسئلة أو الدعم، يرجى فتح Issue في المستودع.
+This project is open source and available for personal use only.
 
 ---
 
-**شكرًا لاستخدامك Arabico!**
+**Last Updated**: 2025  
+**Version**: 2.0 - Revival and Development
